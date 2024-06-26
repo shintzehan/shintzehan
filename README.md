@@ -1,4 +1,4 @@
-# Here is Shin Tzehan / Xin Zhihan
+# Here is Shin Tzehan
 
 ### Trilingual engineer of Chinese, English and Japanese, learning French and German
 ### EE and CS dual degree
