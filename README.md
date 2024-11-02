@@ -18,6 +18,6 @@ Currently (2024/11/02) I'm in Jiangxi and learn skills I want to get.
 
 I want to achieve high positions in industry, for instance seinor engineer and / or engineering manager.
 
-LLMs which are specialist in everyfields changed the world permanently, the question for ne is which field to dive into and be the professionals, specialist and technician are no longer enough.
+LLMs which are specialist in everyfields changed the world permanently, the question for me is which field to dive into and be the professionals, specialist and technician are no longer enough.
 
 ### Feel free to contact with me via <shintzehan@gmail.com>
