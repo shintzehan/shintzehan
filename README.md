@@ -1,6 +1,8 @@
 # About Me
 
-Shin Tzehan, Electrical and Computer Engineer, Trilingual.
+Shin Tzehan, Electrical and Computer Engineer.
+
+# Interested in
 
 ## Languages
 
@@ -12,7 +14,7 @@ I tend to spell my name as Shin Tzehan instand of Xin Zhihan which is the pinyin
 
 I obtained a dual degree of B.S. in EE and CS at the year of 2023, and worked in electro-optical industry for the near one year as field electrician in Shenzhen.
 
-Currently (2024/11/02) I'm in Jiangxi and learn skills I want to get.
+Currently (2024/11/29), I'm in Jiangxi and learn skills I want to get.
 
 ## Career objects
 
