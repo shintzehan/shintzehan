@@ -2,13 +2,11 @@
 
 Shin Tzehan, Electrical and Computer Engineer.
 
-# Interested in
-
 ## Languages
 
-Autism Spectrum, with over-sensory in listening and language, I've leart English and Japanese as Chinese native speaker.
+Autism Spectrum, with over-sensory in listening and language, I've learnt English and Japanese as Chinese native speaker.
 
-I tend to spell my name as Shin Tzehan instand of Xin Zhihan which is the pinyin scheme. Because the X letter is pronounce Sh and the i in Zhi is a neutral vowel, with the later a in Han, the i in Zhi tend to slide to "e".
+I tend to spell my name as Shin Tzehan instant of Xin Zhihan which is the pinyin scheme. Because the X letter is pronounce Sh and the i in Zhi is a neutral vowel, with the later a in Han, the i in Zhi tend to slide to "e".
 
 ## Electrical and Computer Engineering
 
@@ -18,8 +16,8 @@ Currently (2024/11/29), I'm in Jiangxi and learn skills I want to get.
 
 ## Career objects
 
-I want to achieve high positions in industry, for instance seinor engineer and / or engineering manager.
+I want to achieve high positions in industry, for instance senior engineer and / or engineering manager.
 
-LLMs which are specialist in everyfields changed the world permanently, the question for me is which field to dive into and be the professionals, specialist and technician are no longer enough.
+LLMs which are specialist in every field changed the world permanently, the question for me is which field to dive into and be the professionals, specialist and technician are no longer enough.
 
 ### Feel free to contact with me via <shintzehan@gmail.com>
