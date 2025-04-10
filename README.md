@@ -6,8 +6,8 @@ Shin Tzehan, Electrical and Computer Engineer.
 
 Trilingual of Chinese, English and Japanese.
 
-I tend to spell my name as Shin Tzehan instant of Xin Zhihan which is the pinyin scheme. Because the X letter is
-pronounce Sh and the i in Zhi is a neutral vowel, with the later a in Han, the i in Zhi tend to slide to "e".
+I tend to spell my name as Shin Tzehan instant of Xin Zhihan which is the pinyin scheme. Because the x letter is
+pronounce sh and the i in zhi is a neutral vowel, with the later a in han, the i in zhi tend to slide to "e".
 
 ## Electrical and Computer Engineering
 
