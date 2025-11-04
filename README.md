@@ -11,6 +11,6 @@ pronounce sh and the i in zhi is a neutral vowel, with the later a in han, the i
 
 ## Electrical and Computer Engineering
 
-I obtained dual degree in EECS, plan to purse online graduate experience on swe
+I obtained dual degree in EECS
 
 ### Feel free to contact with me via <shintzehan@gmail.com>
